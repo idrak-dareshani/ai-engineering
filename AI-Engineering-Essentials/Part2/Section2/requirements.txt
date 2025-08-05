@@ -4,3 +4,4 @@ accelerate
 torch
 python-dotenv
 gradio
+accelerate
